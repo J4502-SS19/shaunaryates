@@ -67,20 +67,6 @@ body {
   font: 0.8em;
   border-top: 1px solid black;
 }
-.footer {
-  display: flex;
-  justify-content: space-around;
-}
-.footer-item {
-  border: 1px solid #fff;
-  background-color: #D6E9FE;
-  height: 200px;
-  flex: 2;
-}
-.flex-container {
-  display: flex;
-  flex-direction: column;
-}
 
 img{
   border: none;
