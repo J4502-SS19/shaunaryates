@@ -1,0 +1,20 @@
+/* =================================
+  Flexbox
+==================================== */
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item-3 {
+	order: -1;
+}
+
+.item-6 {
+	order: 1;
+}
+
+.item-4 {
+	order: 2;
+}
