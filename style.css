@@ -77,6 +77,10 @@ body {
   height: 200px;
   flex: 2;
 }
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
 
 img{
   border: none;
