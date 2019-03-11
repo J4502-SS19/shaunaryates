@@ -51,6 +51,11 @@ body {
 #nav a:hover, #nav a:active {
     background-color: #7a991a;
 }
+.navigation {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+}
 
 .caption {
   font-family: Georgia, "Times New Roman", serif;
