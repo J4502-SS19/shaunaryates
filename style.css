@@ -69,13 +69,13 @@ body {
 }
 .footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .footer-item {
   border: 1px solid #fff;
   background-color: #D6E9FE;
   height: 200px;
-  flex: 1;
+  flex: 2;
 }
 
 img{
