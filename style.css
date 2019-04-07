@@ -82,3 +82,13 @@ img{
   justify-content: center;}
 
 }
+
+@media screen and (min-width: 800px) {
+  .index.html {
+    margin-right: auto;
+  }
+
+nav ul li {
+  margin: 5px;
+}
+}
