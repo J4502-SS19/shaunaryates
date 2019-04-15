@@ -212,7 +212,7 @@ nav ul li {
 }
 
 
-.menu-trigger {
+.item1 {
     order: 1;
     font-size: 1.75em;
     width: 2em;
@@ -237,7 +237,7 @@ nav ul {
         border-top: none;
     }
 
-    .menu-trigger {
+    .item1 {
         display: none;
     }
 
