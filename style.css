@@ -211,13 +211,6 @@ nav ul li {
     border-top: 1px #79896d solid;
 }
 
-header {
-    display: flex;
-    flex-flow: row;
-    background-color: #65a8a6;
-    margin: 0;
-    padding: 0 10px;
-}
 
 .menu-trigger {
     order: 1;
